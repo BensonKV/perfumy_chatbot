@@ -1,0 +1,125 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    nav{
+    background-color: black;
+    padding: 30px;
+    
+    h1{
+        color: gold;
+    }
+    ul,li,h1{
+        display: inline;
+        
+    }
+    ul{
+        color: gray;
+        margin-left: 70%;
+        font-style: italic;
+        cursor: pointer;
+        
+    }
+    li:hover{
+        color: beige;
+
+    }
+}
+}
+input{
+    padding-right: 350px;
+    margin-left: 20%;
+    margin-top: 40px;
+    width: 60%;
+    height: 25px;
+    padding: 5px;
+    font-style: italic;
+    
+}
+.box{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    display: inline-block;
+    width: 14.5%;
+    text-align: center;
+    font-style: oblique;
+}
+.box1{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    font-style: oblique;
+
+}
+.box2{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    display: inline-block;
+    width: 13%;
+    text-align: center;
+    font-style: oblique;
+}
+.product{
+    text-align: center;
+    margin-top: 60px;
+
+    
+        
+
+}
+.box1:hover{
+    background-color: black;
+    color: gold;
+}
+.box:hover{
+    background-color: black;
+    color: gold;
+}
+.box2:hover{
+    background-color: black;
+    color: gold;
+}
+.about{
+    text-align: center;
+    margin-top: 45px;
+    
+}
+
+
+#a{
+    padding: 10px;
+    margin-top: 10px;
+    font-style: italic;
+    color: grey;
+}
+#a:hover{
+    color: black;
+}
+.contact{
+    text-align: center;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+}
+#two{
+    margin-top: 15px;
+}
+#three{
+    padding: 15px;
+    font-size: 13px;
+    margin-top: 40px;
+}
+.product{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+    
